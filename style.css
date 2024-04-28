@@ -1,3 +1,15 @@
-body{
-    background-color: black;
+*{
+    font-size: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input-box{
+    background-color: rgb(220, 239, 145);
+    border-radius: 2px;
+    border: 1.5px solid black;
+}
+.submit-button{
+    color: rgb(10, 10, 10);
+    height: 40px;
+    width: 90px;
+    font-size: 1.5rem;
 }
